@@ -7,3 +7,7 @@ Authentication, Profile, Admin Panel, Search, Shop, Category wise Product, Produ
 
 ## Tools: 
 HTML, CSS, Bootstrap, JavaScript, Jquery, PHP Laravel, MySQL (Web).
+
+## Auth:
+Email: puspitahasan18@gmail.com
+Password: puput12345
